@@ -1,0 +1,9 @@
+.thead-light {
+    background-color: #f8f9fa; /* Light color */
+  }
+  
+  .thead-dark {
+    background-color: #343a40; /* Dark color */
+    color: white;
+  }
+  
